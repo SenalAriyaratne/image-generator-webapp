@@ -1,6 +1,7 @@
 import Header  from "./components/Header"
 import InfoCard from "./components/InfoCard"
 import FormCard from "./components/FormCard"
+import ResultCard from "./components/ResultCard"
 function App() {
  
 
@@ -11,7 +12,8 @@ function App() {
         <InfoCard/>
         <FormCard/>
       </div>
-      
+     <ResultCard/>
+
       
     </div>
       

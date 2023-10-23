@@ -11,7 +11,7 @@ const FormCard = () => {
         console.log(inputPrompt);
         setInputPrompt('');
     }
-
+    
     return (
        <div className="relative scale-95 hover:scale-100 shadow hover:shadow-md opacity-75 hover:opacity-100 shadow-purple-700
                      bg-white rounded-xl w-2/6 mb-5 mt-2 ring-purple-400">
